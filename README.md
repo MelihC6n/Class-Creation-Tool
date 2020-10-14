@@ -10,3 +10,5 @@ CLASS CREATION TOOL
 4) Select table.
 5) If you want aspx files check to "web dosyalarını oluştur" checkbox.
 6) Click to "dosya oluştur" button and your files will creates in oluşturulan dosyalar from apps file path.
+
+Details are in HOW TO USE CLASS CREATION TOOLS files(Turkish)
